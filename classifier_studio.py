@@ -989,7 +989,7 @@ def main():
         """, unsafe_allow_html=True)
 
     st.markdown(
-        f"<h1 style='margin-bottom:0'>Dr&nbsp;Ash Multimodel Classifier&nbsp;Studio</h1>"
+        f"<h1 style='margin-bottom:0'>Dr&nbsp;Ash Multimodel Advanced BI &nbsp;Studio</h1>"
         f"<p style='color:{GREY};margin-top:4px'>Classification · time-series "
         f"forecasting · text, web &amp; social-media analytics — load data, pick a "
         f"method, set parameters, run, and visualise.</p>",

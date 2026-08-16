@@ -1,0 +1,13 @@
+streamlit>=1.30
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.2
+plotly>=5.18
+xgboost>=1.7
+statsmodels>=0.14
+vaderSentiment>=3.3
+wordcloud>=1.9
+beautifulsoup4>=4.12
+requests>=2.31
+# tensorflow-cpu>=2.16   # OPTIONAL — uncomment to enable the LSTM model.
+#                         Large (~200MB+); may need a paid Streamlit tier.

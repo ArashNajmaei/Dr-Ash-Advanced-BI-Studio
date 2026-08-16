@@ -1,5 +1,5 @@
 """
-Dr Ash Multimodel Classifier Studio
+Dr Ash Multimodel Advanced BI Studio
 ===================================
 An interactive, no-code analytics workbench for applied business research and
 teaching, with three modules:

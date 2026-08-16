@@ -975,7 +975,7 @@ def main():
     import plotly.graph_objects as go
     import plotly.express as px
 
-    st.set_page_config(page_title="Dr Ash Multimodel Classifier Studio",
+    st.set_page_config(page_title="Dr Ash Multimodel Advanced BI Studio",
                        page_icon="\U0001F4CA", layout="wide")
     st.markdown(
         f"""
